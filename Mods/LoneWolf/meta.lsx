@@ -6,7 +6,7 @@
             <children>
                 <node id="Dependencies"/>
                 <node id="ModuleInfo">
-                    <attribute id="Author" type="LSWString" value="fenix / sp8cemonkey83"/>
+                    <attribute id="Author" type="LSWString" value="fenix / sp8cemonkey83 / Golbezz / Pandaros"/>
                     <attribute id="CharacterCreationLevelName" type="FixedString" value=""/>
                     <attribute id="Description" type="LSWString" value="Lone Wolf Mode"/>
                     <attribute id="Folder" type="LSWString" value="LoneWolf"/>

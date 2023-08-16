@@ -86,17 +86,17 @@
                     <attribute id="Level7" type="LSString" value="1d4"/>
                     <attribute id="Level8" type="LSString" value="1d4"/>
                     <attribute id="Level9" type="LSString" value="1d4"/>
-                    <attribute id="Level10" type="LSString" value="1d4"/>
-                    <attribute id="Level11" type="LSString" value="1d4"/>
-                    <attribute id="Level12" type="LSString" value="1d4"/>
-                    <attribute id="Level13" type="LSString" value="1d4"/>
-                    <attribute id="Level14" type="LSString" value="1d4"/>
-                    <attribute id="Level15" type="LSString" value="1d4"/>
-                    <attribute id="Level16" type="LSString" value="1d4"/>
-                    <attribute id="Level17" type="LSString" value="1d4"/>
-                    <attribute id="Level18" type="LSString" value="1d4"/>
-                    <attribute id="Level19" type="LSString" value="1d4"/>
-                    <attribute id="Level20" type="LSString" value="1d4"/>
+                    <attribute id="Level10" type="LSString" value="2d4"/>
+                    <attribute id="Level11" type="LSString" value="2d4"/>
+                    <attribute id="Level12" type="LSString" value="2d4"/>
+                    <attribute id="Level13" type="LSString" value="2d4"/>
+                    <attribute id="Level14" type="LSString" value="2d4"/>
+                    <attribute id="Level15" type="LSString" value="2d4"/>
+                    <attribute id="Level16" type="LSString" value="2d4"/>
+                    <attribute id="Level17" type="LSString" value="2d4"/>
+                    <attribute id="Level18" type="LSString" value="2d4"/>
+                    <attribute id="Level19" type="LSString" value="2d4"/>
+                    <attribute id="Level20" type="LSString" value="2d4"/>
                     <attribute id="Name" type="FixedString" value="LoneWolfAttackRollScale"/>
                     <attribute id="UUID" type="guid" value="a72914d5-0932-4c28-b08e-3ef2be172119"/>
                 </node>
@@ -129,22 +129,22 @@
                     <attribute id="Level2" type="LSString" value="1"/>
                     <attribute id="Level3" type="LSString" value="1"/>
                     <attribute id="Level4" type="LSString" value="1"/>
-                    <attribute id="Level5" type="LSString" value="1"/>
-                    <attribute id="Level6" type="LSString" value="1"/>
-                    <attribute id="Level7" type="LSString" value="1"/>
-                    <attribute id="Level8" type="LSString" value="1"/>
-                    <attribute id="Level9" type="LSString" value="1"/>
-                    <attribute id="Level10" type="LSString" value="2"/>
-                    <attribute id="Level11" type="LSString" value="2"/>
-                    <attribute id="Level12" type="LSString" value="2"/>
-                    <attribute id="Level13" type="LSString" value="2"/>
-                    <attribute id="Level14" type="LSString" value="2"/>
-                    <attribute id="Level15" type="LSString" value="2"/>
-                    <attribute id="Level16" type="LSString" value="2"/>
-                    <attribute id="Level17" type="LSString" value="2"/>
-                    <attribute id="Level18" type="LSString" value="2"/>
-                    <attribute id="Level19" type="LSString" value="2"/>
-                    <attribute id="Level20" type="LSString" value="3"/>
+                    <attribute id="Level5" type="LSString" value="2"/>
+                    <attribute id="Level6" type="LSString" value="2"/>
+                    <attribute id="Level7" type="LSString" value="2"/>
+                    <attribute id="Level8" type="LSString" value="2"/>
+                    <attribute id="Level9" type="LSString" value="2"/>
+                    <attribute id="Level10" type="LSString" value="3"/>
+                    <attribute id="Level11" type="LSString" value="3"/>
+                    <attribute id="Level12" type="LSString" value="3"/>
+                    <attribute id="Level13" type="LSString" value="3"/>
+                    <attribute id="Level14" type="LSString" value="3"/>
+                    <attribute id="Level15" type="LSString" value="4"/>
+                    <attribute id="Level16" type="LSString" value="4"/>
+                    <attribute id="Level17" type="LSString" value="4"/>
+                    <attribute id="Level18" type="LSString" value="4"/>
+                    <attribute id="Level19" type="LSString" value="4"/>
+                    <attribute id="Level20" type="LSString" value="5"/>
                     <attribute id="Name" type="FixedString" value="LoneWolfBonusActionScale"/>
                     <attribute id="UUID" type="guid" value="a72914d5-0932-4c28-b08e-3ef2be172116"/>
                 </node>
@@ -177,22 +177,22 @@
                     <attribute id="Level2" type="LSString" value="1"/>
                     <attribute id="Level3" type="LSString" value="1"/>
                     <attribute id="Level4" type="LSString" value="1"/>
-                    <attribute id="Level5" type="LSString" value="1"/>
-                    <attribute id="Level6" type="LSString" value="1"/>
-                    <attribute id="Level7" type="LSString" value="1"/>
-                    <attribute id="Level8" type="LSString" value="1"/>
-                    <attribute id="Level9" type="LSString" value="1"/>
-                    <attribute id="Level10" type="LSString" value="2"/>
-                    <attribute id="Level11" type="LSString" value="2"/>
-                    <attribute id="Level12" type="LSString" value="2"/>
-                    <attribute id="Level13" type="LSString" value="2"/>
-                    <attribute id="Level14" type="LSString" value="2"/>
-                    <attribute id="Level15" type="LSString" value="3"/>
-                    <attribute id="Level16" type="LSString" value="3"/>
-                    <attribute id="Level17" type="LSString" value="3"/>
-                    <attribute id="Level18" type="LSString" value="3"/>
-                    <attribute id="Level19" type="LSString" value="3"/>
-                    <attribute id="Level20" type="LSString" value="4"/>
+                    <attribute id="Level5" type="LSString" value="2"/>
+                    <attribute id="Level6" type="LSString" value="2"/>
+                    <attribute id="Level7" type="LSString" value="2"/>
+                    <attribute id="Level8" type="LSString" value="2"/>
+                    <attribute id="Level9" type="LSString" value="2"/>
+                    <attribute id="Level10" type="LSString" value="3"/>
+                    <attribute id="Level11" type="LSString" value="3"/>
+                    <attribute id="Level12" type="LSString" value="3"/>
+                    <attribute id="Level13" type="LSString" value="3"/>
+                    <attribute id="Level14" type="LSString" value="3"/>
+                    <attribute id="Level15" type="LSString" value="4"/>
+                    <attribute id="Level16" type="LSString" value="4"/>
+                    <attribute id="Level17" type="LSString" value="4"/>
+                    <attribute id="Level18" type="LSString" value="4"/>
+                    <attribute id="Level19" type="LSString" value="4"/>
+                    <attribute id="Level20" type="LSString" value="5"/>
                     <attribute id="Name" type="FixedString" value="LoneWolfActionScale"/>
                     <attribute id="UUID" type="guid" value="a72914d5-0932-4c28-b08e-3ef2be172115"/>
                 </node>

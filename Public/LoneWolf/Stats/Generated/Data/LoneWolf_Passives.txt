@@ -8,7 +8,7 @@ data "Icon" "Skill_Druid_WildShape_DireWolf"
 data "Properties" "IsToggled;ToggledDefaultAddToHotbar;Highlighted"
 data "Boosts" "LoneWolf()"
 data "ToggleOnFunctors" "ApplyStatus(LONEWOLF,100,-1);ApplyStatus(LONEWOLFRECHARGES,100,-1)"
-data "ToggleOffFunctors" "RemoveStatus(LONEWOLF),RemoveStatus(LONEWOLFRECHARGES);"
+data "ToggleOffFunctors" "RemoveStatus(LONEWOLF);RemoveStatus(LONEWOLFRECHARGES)"
 data "ToggleGroup" "LoneWolf"
 
 new entry "LONEWOLF"

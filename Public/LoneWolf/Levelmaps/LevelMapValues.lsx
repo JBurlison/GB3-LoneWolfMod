@@ -9,11 +9,11 @@
                     <attribute id="Level2" type="LSString" value="1d4"/>
                     <attribute id="Level3" type="LSString" value="1d4"/>
                     <attribute id="Level4" type="LSString" value="1d4"/>
-                    <attribute id="Level5" type="LSString" value="1d6"/>
-                    <attribute id="Level6" type="LSString" value="1d6"/>
-                    <attribute id="Level7" type="LSString" value="1d6"/>
-                    <attribute id="Level8" type="LSString" value="1d6"/>
-                    <attribute id="Level9" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="1d4"/>
+                    <attribute id="Level6" type="LSString" value="1d4"/>
+                    <attribute id="Level7" type="LSString" value="1d4"/>
+                    <attribute id="Level8" type="LSString" value="1d4"/>
+                    <attribute id="Level9" type="LSString" value="1d4"/>
                     <attribute id="Level10" type="LSString" value="2d4"/>
                     <attribute id="Level11" type="LSString" value="2d4"/>
                     <attribute id="Level12" type="LSString" value="2d4"/>

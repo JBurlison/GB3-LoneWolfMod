@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="9" build="307"/>
+    <region id="PassiveLists">
+        <node id="root">
+            <children>
+                <node id="PassiveList">
+                    <attribute id="Passives" type="LSString" value="Proficiency_Clubs,Proficiency_Daggers"/>
+                    <attribute id="UUID" type="guid" value="d729519b-b3b8-452a-a145-cc7cd1b5b327"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
